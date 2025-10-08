@@ -1,6 +1,6 @@
 # Unity 3D Tutorial Project
 
-This is a Unity project I built by following the [[https://learn.unity.com/tutorial/2-2-activation-events](https://learn.unity.com/mission/events-and-interactions)).  
+This is a Unity project I built by following the [https://learn.unity.com/mission/events-and-interactions).  
 The purpose of this repository is to document my learning progress and practice VR development with XRTK.
 
 ## Features
